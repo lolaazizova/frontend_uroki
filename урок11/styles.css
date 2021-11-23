@@ -1,0 +1,27 @@
+#blok1{
+    background-color: darkslateblue;
+}
+.blok2{
+    background-color: darkslategrey;
+}
+.blok3{
+    background-color: dodgerblue;
+}
+.podblok1{
+    background-color: lime;
+    color: rgb(153, 49, 49);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+.podblok2{
+    background-color: mediumpurple;
+    color: midnightblue;
+    font-family: cursive;
+    font-size: large;
+}
+.podblok3{
+    background-color: teal;
+    color: violet;
+    font-size: 10px;
+    font-family:serif;
+}
